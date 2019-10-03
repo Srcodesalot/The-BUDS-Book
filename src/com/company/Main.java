@@ -17,7 +17,7 @@ public class Main {
 	    System.out.println("BUDS Memebers:\n");
 	    List<User> list = buds.getUsers();
         for(User user: list){
-            System.out.println(user.format());
+            System.out.println(user.format() + "\n");
         }
     }
 }
