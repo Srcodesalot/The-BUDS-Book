@@ -23,6 +23,7 @@ public class BUDS {
                         "Economics",
                         "I like long walks in the park and on the beach. Pepperoni pizza or Die. \n " +
                                 "live fast die free. ball hard! <(^(00)^)> ")//add a ', ' here
+
         );
     }
 
