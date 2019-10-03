@@ -6,7 +6,7 @@ import java.util.List;
 public class BUDS {
 
     //first create yourself as a user
-    private User aidan;
+    private User aidan, carl;
     private List<User> users;
 
     {
@@ -22,7 +22,16 @@ public class BUDS {
                         "Computer Science",
                         "Economics",
                         "I like long walks in the park and on the beach. Pepperoni pizza or Die. \n " +
-                                "live fast die free. ball hard! <(^(00)^)> ")//add a ', ' here
+                                "live fast die free. ball hard! <(^(00)^)> "),//add a ', ' here
+
+                carl = new User(
+                        "Carl",
+                        "Ahlstrand",
+                        "Senior",
+                        "Computer Science",
+                        "Web Development",
+                        "I like long walks in the park but not on the beach. Pepperoni pizza or Die. \n " +
+                                "live at a moderate pace and die free. ball! <(^(00)^)> ")//add a ', ' here
         );
     }
 
