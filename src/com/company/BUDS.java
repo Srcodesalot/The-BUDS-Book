@@ -9,6 +9,7 @@ public class BUDS {
     private User aidan;
     private User michaelm;
     private User ollie;
+    private User Maddie;
 
     private List<User> users;
 
@@ -34,10 +35,8 @@ public class BUDS {
                         "Computer Science & Philosophy",
                         "aint got one",
                         "uwu what's this \n " +
-                                "im a big fan of myself")
+                                "im a big fan of myself"),
 
-
-                                "live fast die free. ball hard! <(^(00)^)> "),
                 ollie = new User(
                         "Ollie",
                         "Barwise",
@@ -53,11 +52,19 @@ public class BUDS {
                         "Computer Science",
                         "Four score and seven years ago our fathers brought forth \n " +
                                 "on this continent a new nation, conceived in liberty \n" +
-                                "and dedicated to the proposition that all men are created equal.");//add a ', ' here
+                                "and dedicated to the proposition that all men are created equal."),//add a ', ' here
+
+                Maddie = new User(
+                        "Madison",
+                        "Everett",
+                        "Senior",
+                        "Computer Science",
+                        "Mathematics",
+                        "Dogs and ice cream are the key to life! \n " +
+                                "Litty McScitty! ;)))))))))))) ")//add a ', ' here
+
 
         );
-
-
 
     }
 
