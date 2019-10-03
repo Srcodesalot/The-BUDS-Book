@@ -44,7 +44,16 @@ public class BUDS {
                         "Junior",
                         "Computer Science",
                         "Chemistry (premed focus",
-                        "Have you ever heard of the Denisovans?")
+                        "Have you ever heard of the Denisovans?"),
+                sean = new User(
+                        "Sean",
+                        "Newell",
+                        "Senior",
+                        "AET",
+                        "Computer Science",
+                        "Four score and seven years ago our fathers brought forth \n " +
+                                "on this continent a new nation, conceived in liberty \n" +
+                                "and dedicated to the proposition that all men are created equal.");//add a ', ' here
 
         );
 
