@@ -7,6 +7,7 @@ public class BUDS {
 
     //first create yourself as a user
     private User aidan;
+    private User ollie;
     private List<User> users;
 
     {
@@ -22,8 +23,14 @@ public class BUDS {
                         "Computer Science",
                         "Economics",
                         "I like long walks in the park and on the beach. Pepperoni pizza or Die. \n " +
-                                "live fast die free. ball hard! <(^(00)^)> ")//add a ', ' here
-
+                                "live fast die free. ball hard! <(^(00)^)> "),
+                ollie = new User(
+                        "Ollie",
+                        "Barwise",
+                        "Junior",
+                        "Computer Science",
+                        "Chemistry (premed focus",
+                        "Have you ever heard of the Denisovans?")
         );
     }
 
