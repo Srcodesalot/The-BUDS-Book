@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2246fd37-9910-4116-8b4c-3a536ed205ac" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BudsIntro/com/company/BUDS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BudsIntro/com/company/BUDS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BudsIntro/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BudsIntro/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BudsIntro/com/company/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BudsIntro/com/company/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/BUDS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/BUDS.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
