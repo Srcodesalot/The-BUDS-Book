@@ -10,6 +10,7 @@ public class BUDS {
     private User michaelm;
     private User ollie;
     private User Maddie;
+    private User sean;
 
     private List<User> users;
 
@@ -44,6 +45,7 @@ public class BUDS {
                         "Computer Science",
                         "Chemistry (premed focus",
                         "Have you ever heard of the Denisovans?"),
+
                 sean = new User(
                         "Sean",
                         "Newell",
